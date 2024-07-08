@@ -33,8 +33,3 @@ p{
     font-size: 15px;
     padding: 5px 10px 22px 10px;
 }
-@media (min-width: 375px) {
-    div{
-      width: 1440 px;
-    }
-}
